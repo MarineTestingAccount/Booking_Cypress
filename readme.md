@@ -1,4 +1,4 @@
-## Swag Labs Cypress Homework
+## Booking Hotels in Dilijan Cypress Homework
 
 ### HomeTask
 ## Homework (Cypress + POM)
