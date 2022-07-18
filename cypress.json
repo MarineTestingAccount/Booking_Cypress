@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.booking.com",
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "reporter": "cypress-multi-reporters"
+
+}
